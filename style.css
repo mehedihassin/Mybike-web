@@ -1,0 +1,35 @@
+body{
+    margin: 10px;
+    padding: 10px 10px;
+    font-family: 'Roboto Slab', serif;
+}
+.red-colorbike{
+    color: rgb(182, 35, 35);
+}
+.sorce-color{
+    color: cornflowerblue;
+}
+
+section{
+    display: flex;
+    border-bottom: 50px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding:50px ;
+ }
+
+
+.bike-onecolar{
+    width: 100%;
+    height: auto;
+}
+.bike-detailes-batton{
+    color: aliceblue;
+    padding: 5px 5px;
+    font-weight: 900;
+    text-decoration: none ;
+    background-image: linear-gradient(orange, red)
+
+    
+
+}
