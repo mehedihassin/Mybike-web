@@ -13,9 +13,13 @@ body{
 section{
     display: flex;
     border-bottom: 50px;
-    background-image: url(images/top-banner.png);
+   
     background-repeat: no-repeat;
     padding:50px ;
+ }
+ .heder-section{
+    background-image: url(images/top-banner.png);
+
  }
 
 
@@ -32,4 +36,17 @@ section{
 
     
 
+}
+.r15-color{
+    color: green;
+    font-weight: bold;
+}
+.sorce-area{
+    color: red;
+    font-weight: bold;
+}
+.middle-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
